@@ -1,4 +1,4 @@
-[ www.patika.dev l](KodluyoruzilkRepo)
+[ www.patika.dev l] (KodluyoruzilkRepo)
 
 # Kodluyoruz ilk repo
 
